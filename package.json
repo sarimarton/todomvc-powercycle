@@ -1,0 +1,32 @@
+{
+  "name": "todomvc-powercycle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarimarton/todomvc-powercycle.git"
+  },
+  "keywords": [],
+  "author": "Marton Sari <sarimarton@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarimarton/todomvc-powercycle/issues"
+  },
+  "homepage": "https://github.com/sarimarton/todomvc-powercycle#readme",
+  "dependencies": {
+    "@cycle/react": "^2.0.0",
+    "@cycle/react-dom": "^2.0.0",
+    "@cycle/run": "^5.2.0",
+    "@cycle/state": "^1.2.0",
+    "parcel": "^1.12.2",
+    "powercycle": "^0.9.4",
+    "react": "^16.8.4",
+    "todomvc-app-css": "^2.2.0",
+    "todomvc-common": "^1.0.5",
+    "xstream": "^11.10.0"
+  }
+}
