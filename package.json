@@ -22,7 +22,7 @@
     "@cycle/react-dom": "^2.0.0",
     "@cycle/run": "^5.2.0",
     "@cycle/state": "^1.2.0",
-    "parcel": "^1.12.2",
+    "parcel": "^2.8.2",
     "powercycle": "^0.9.4",
     "react": "^16.8.4",
     "todomvc-app-css": "^2.2.0",
